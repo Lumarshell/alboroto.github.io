@@ -1,0 +1,47 @@
+
+/* Estilos para el footer */
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px 0;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.contact-info {
+  flex: 1;
+}
+
+.social-links {
+  flex: 1;
+  text-align: right;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+p {
+  font-size: 14px;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+a:hover {
+  text-decoration: underline;
+}
